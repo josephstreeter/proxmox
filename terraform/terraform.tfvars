@@ -1,0 +1,8 @@
+proxmox_api_url          = "https://192.168.127.101:8006/api2/json"
+proxmox_api_token_id     = "hades@pve!terraform_id"
+proxmox_api_token_secret = "adcfb047-4bd0-4638-ab11-caa83091ac38"
+proxmox_host = "FR-VH-01"
+template_name = "ubuntu-2404-template"
+ciuser = "hades"
+password = "iw2slep!"
+ssh_key = "ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAGD/5kqLpt6S8Lw2lPZOENeQ6nMAB1e8s84plAaanFhkgOIcEcL7pka4V8RDrC46LPZ/F5OfkoTi4PzovD93IJnGQGBdLjUQiL99OAX02iPsMrKPZPZpfRyU7LRrQlmBDYlXXdvABQVmJ30FcyfpiNEXAj4mVOj3ATGagUKTibZGoUeuw=="
